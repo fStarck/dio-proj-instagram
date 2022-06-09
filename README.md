@@ -1,2 +1,2 @@
 # dio-proj-instagram
-Cópia da página inicial do instagram em HTML e CSS
+Cópia da página inicial do instagram em HTML5 e CSS3
